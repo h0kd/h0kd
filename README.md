@@ -8,6 +8,7 @@ A junior fullstack developer from Chile.
 <p dir="auto">
 <a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;"></a>
 <a href="https://www.notion.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" alt="notion" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://obsidian.md/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Obsidian-Dark.svg" alt="obsidian" width="40" height="40" style="max-width: 100%;"></a>
 </p>
 
 ## Technology Stack
