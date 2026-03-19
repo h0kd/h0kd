@@ -1,31 +1,59 @@
-# Hi, I'm h0kd
-A junior fullstack developer from Chile.
-## About Me
-[![gmail](https://camo.githubusercontent.com/1b040f23d4981836f652173465f137cb5386f5111ae2e98fd0ea47f0529847fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d676d61696c2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a657279616a66403136332e636f6d)](mailto:leonardodelpino11@gmail.com)
+# hey, I'm Leo (h0kd) 👋
 
+Full Stack Developer from Concepción, Chile 🇨🇱 — currently building production-grade internal tooling and looking for my next challenge at an international company.
 
-## Tools
-<p dir="auto">
-<a href="https://code.visualstudio.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%;"></a>
-<a href="https://www.notion.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" alt="notion" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://obsidian.md/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Obsidian-Dark.svg" alt="obsidian" width="40" height="40" style="max-width: 100%;"></a>
+---
+
+## 🔭 What I'm working on
+
+Building a **full ERP system** from scratch as the sole developer at a B2B inspection & certification company — real users, real data, real deadlines.
+
+- Multi-module internal ERP: HR, Operations, Safety, Vehicles, Accounting
+- Cloudflare-native architecture (Workers + D1 + R2)
+- Email notification system with Resend
+- Continuous refactor toward production-quality React patterns
+
+---
+
+## 🛠️ Tech stack
+
+**Frontend**
+
+[![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
+
+**Backend & Infrastructure**
+
+[![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)
+[![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/d1/)
+[![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/r2/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)](https://resend.com/)
+
+**Tools**
+
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://cursor.sh/)
+[![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+
+---
+
+## 📊 GitHub stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=h0kd&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0kd&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </p>
 
-## Technology Stack
-<p dir="auto">
-<a href="https://www.python.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="js" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://flask.palletsprojects.com/en/stable/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" alt="flask" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://nginx.org/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Nginx.svg" alt="nginx" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="html" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://nextjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="nextjs" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://react.dev/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="react" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://nodejs.org/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.php.net/" rel="nofollow"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="php" width="40" height="40" style="max-width: 100%;"></a>
-</p>
-<!---
-h0kd/h0kd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌎 Open to work
+
+I'm actively looking for **remote full stack / frontend roles** at international companies. I'm comfortable working in English, obsessed with clean architecture, and I ship things end to end.
+
+[![Gmail](https://img.shields.io/badge/leonardodelpino11%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leonardodelpino11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
